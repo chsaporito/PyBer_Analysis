@@ -4,8 +4,8 @@
 - To finalize the analysis, a line chart will show the weekly total fares by city type.  This will help visualize the sum total of “weekly fares”  that can be compared to the “average fares” in the first summary.
 
 ## Results:
-- There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 As one would expect, the total number of rides and drivers is higher in the “Urban” city type compared to the Suburban and Rural city types.   We can also see that the “Total Fares” is also the highest for “Urban” cities, but the “Average Fare per Ride” and “Average Fare per Driver” are the lowest for this city type.  
+
 The Lowest “Average Fare per Ride” in “Urban” areas and the highest “Average Fare per Ride” in “Rural” areas shows a ~$10.00 discrepancy with $24.53 and $34.62 respectively however, there is a $38.92 discrepancy between the lowest “Average Fare per Driver” for “Urban” cities and the lowest “Average Fare per Driver” in “Rural” Cities.
 
 ![This is an image](/analysis/summary.JPG)
