@@ -14,6 +14,7 @@ The $10.00 difference between the “Average Fare per Ride” in “Urban” cit
 
 For “Urban” cities, the number of “Total Drivers” of 2405 far exceeds the number of “Total Rides” of 1625 which is about 1.5 times more drivers than rides while “Rural” and “Suburban” areas have less drivers than rides at a ratio of 0.64 and 0.78 respectively. Additionally, for “Urban” cities, the “Average Fare per Driver” is less than the “Average Fare per Ride” which is not the case for “Rural” and “Suburban” cities.  The “Average Fare per Driver” for “Rural” cities seems disproportionally high compared to “Suburban” cities.  
 
+The “Total Fare by City Type” chart shows the total weekly fares by city type which shows the discrepancy of weekly fares.  We can see that the weekly fares are the highest for “Urban” cites despite having the lowest fare averages for rides and drivers.  This is most certainly due to the total number of rides where the more rides there are, the more money you make.  We can also see that each “City Type” has fairly consistent weekly fares where “Rural” types stay under $500.00,  “Suburban” types are between $750 and $1400 approximately and “Urban” types are between $1700 and $2500.  
 
 ![This is an image](/analysis/PyBer_fare_summary.png)
 
